@@ -1,5 +1,5 @@
 # Statping Poc
-Poc of statping vulns. This repo contais 4 PDFs and a video disclosuring the PoCs for Statping vulns.
+Poc of statping vulns. This repo contais 4 PDFs disclosuring the PoCs for Statping vulns.
 
 ## Vulnerabilities
 - Sesitive File Exposure
