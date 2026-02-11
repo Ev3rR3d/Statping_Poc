@@ -15,7 +15,7 @@ This repository contains technical documentation and Proof of Concept (PoC) mate
 The research focused on the API security model and permission validation logic of the Statping-ng framework. The identified flaws allow an attacker to escalate privileges from a low-privileged API token to full system/application administrative control.
 
 ### Discovery Credits
-* **Bruno Javarez (Ev3rR3d)** - Tech Lead / Security Researcher
+* **Bruno Javarez (Ev3rR3d)** - Security Researcher
 * **Gustavo Mugnatto (mugnatto)** - Security Researcher
 
 ## Disclaimer
