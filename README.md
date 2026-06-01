@@ -6,7 +6,7 @@ This repository contains technical documentation and Proof of Concept (PoC) mate
 
 | CVE ID | Vulnerability Type | Impact | Technical Detail |
 | :--- | :--- | :--- | :--- |
-| **[CVE-2024-26477](./CVE-2024-26477/)** | CWE-250: Privilege Escalation | **Critical** | Remote Admin Creation via API |
+| **[CVE-2024-26477](./CVE-2024-26477/)** | CWE-250: Privilege Escalation | **High** | Remote Admin Creation via API |
 | **[CVE-2024-26478](./CVE-2024-26478/)** | Account Takeover | **High** | Admin Password Reset via API |
 | **[CVE-2024-26479](./CVE-2024-26479/)** | CWE-200: Info Disclosure | **Medium** | Unauthorized API Endpoint Access |
 | **[CVE-2024-26480](./CVE-2024-26480/)** | Local Privilege Escalation | **High** | Arbitrary Code Execution |
